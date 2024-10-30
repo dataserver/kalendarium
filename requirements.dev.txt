@@ -1,0 +1,2 @@
+devtools == 0.12.*
+pyinstaller == 6.11.*

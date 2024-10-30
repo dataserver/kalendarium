@@ -1,0 +1,4 @@
+pyside6 == 6.7.*
+pyside6-fluent-widgets == 1.6.*
+pydantic == 2.9.*
+httpx == 0.27.*

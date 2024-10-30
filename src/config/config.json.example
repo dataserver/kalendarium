@@ -1,0 +1,21 @@
+{
+    "General": {
+        "action_calendar_to_view": "CALENDAR_TO_DAY_OVERVIEW",
+        "dpi_scale": 1,
+        "language": "en_US",
+        "palette_color": "Tableau10",
+        "start_of_week": "SUNDAY"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Dark"
+    },
+    "Weather": {
+        "weather_api": "a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a",
+        "weather_enabled": true,
+        "weather_lang": "en",
+        "weather_latitude": "40.717",
+        "weather_longitude": "-74.004",
+        "weather_units": "imperial"
+    }
+}

@@ -1,0 +1,11 @@
+.calendar_month_title {
+    font-weight: bold; font-size: 22px;
+    margin-left:50px;
+    margin-right:50px;
+    color: #000000;
+}
+.calendar_header_days {
+    font-weight: bold; font-size: 18px;
+    color: #000000;
+}
+

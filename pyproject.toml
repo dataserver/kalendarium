@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "Kalendarium"
+version = "0.1.11"
+description = ""
+authors = ["John Doe <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+pyside6 = "^6.7.3"
+pyside6-fluent-widgets = "^1.6.6"
+pydantic = "^2.9.2"
+httpx = "^0.27.2"
+
+
+
+[tool.poetry.group.dev.dependencies]
+devtools = "^0.12.2"
+pyinstaller = "^6.11.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pylint.main]
+extension-pkg-whitelist = ["PySide6"]
